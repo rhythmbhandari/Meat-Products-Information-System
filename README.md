@@ -1,5 +1,11 @@
 # Meat-Products-Information-System
 
+Meat Products Information System:
+User-friendly application with the key feature to add meat products and search meat products in the database with required filters.
+•	Adobe XD was used to design the wireframes and create prototypes. 
+•	Java Swing was used to develop the GUI of the application.
+•	Sorting and searching algorithms were used.
+
 Screenshots:
 1. Homepage
 ![Home](https://user-images.githubusercontent.com/69192521/126909459-fccc791a-a651-4e92-bd42-e99851bd3c83.jpg)
